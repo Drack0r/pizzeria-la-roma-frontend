@@ -3,10 +3,32 @@
 @theme {
   --color-white: #fafafa;
   --color-black: #0a0a0a;
+
+  --color-primary: #f54900;
 }
 
 @layer utilities {
+  .heading-1 {
+    @apply text-7xl font-medium tracking-[0.12px];
+  }
   .heading-3 {
     @apply text-2xl font-semibold tracking-[0.06px];
+  }
+
+  .body-md {
+    @apply text-lg font-medium;
+  }
+  .body-lg {
+    @apply text-2xl tracking-[0.06px];
+  }
+}
+
+@layer components {
+  .btn,
+  .btn-primary {
+    @apply rounded-4xl px-8 py-4;
+  }
+  .btn-primary {
+    @apply bg-primary;
   }
 }
