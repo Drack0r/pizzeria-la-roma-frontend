@@ -1,11 +1,15 @@
 import { Header } from "@/components/layout";
-import { Hero } from "@/components/sections";
+import { About, Hero } from "@/components/sections";
 
 function HomePage() {
   return (
     <>
       <Header />
-      <Hero />
+
+      <main className="flex flex-col gap-20">
+        <Hero />
+        <About />
+      </main>
     </>
   );
 }
