@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "iconSrc": "/icons/chefs-hat.svg",
+    "iconAlt": "Toque de cuisinier",
+    "label": "Pizzaiolo certifié"
+  },
+  {
+    "id": 2,
+    "iconSrc": "/icons/heart.svg",
+    "iconAlt": "Coeur",
+    "label": "Fait avec passion"
+  },
+  {
+    "id": 3,
+    "iconSrc": "/icons/dishes.svg",
+    "iconAlt": "Couverts",
+    "label": "Recettes authentiques"
+  }
+]

@@ -2,11 +2,9 @@
 
 import Link from "next/link";
 
-import { useData } from "@/hooks";
+import navlinks from "@/data/navlinks.json";
 
 function Nav() {
-  const { data: navlinks, loading, error } = useData("/data/navlinks.json");
-
   return (
     <nav>
       <ul className="flex gap-7">
