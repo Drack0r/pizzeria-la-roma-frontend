@@ -13,7 +13,7 @@ function Hero() {
         className="absolute h-full object-cover"
       />
 
-      {/* Linear gradient */}
+      {/* Semi-transparent overlay */}
       <div className="absolute h-full w-full bg-black/50"></div>
 
       {/* Content */}
@@ -23,7 +23,7 @@ function Hero() {
           L&apos;authenticité italienne au cœur de votre quartier
         </p>
         {/* Actions container */}
-        <div className="body-md mt-14 flex gap-6 border-white">
+        <div className="body-md mt-14 flex gap-6">
           <Link href="/menu" className="btn-primary">
             Découvrir notre menu
           </Link>
