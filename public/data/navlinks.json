@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "href": "/",
+    "label": "Accueil"
+  },
+  {
+    "id": 2,
+    "href": "/menu",
+    "label": "Notre Menu"
+  },
+  {
+    "id": 3,
+    "href": "/about",
+    "label": "À Propos"
+  },
+  {
+    "id": 4,
+    "href": "/contact",
+    "label": "Contact"
+  }
+]

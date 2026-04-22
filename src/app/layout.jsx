@@ -6,10 +6,23 @@ const inter = Inter({
   subsets: ["latin"],
 });
 
+export const metadata = {
+  icons: {
+    icon: "/favicon.ico",
+  },
+  title: "La Roma | Accueil",
+  description: "#", // todo: ajouter la description du site
+};
+
 function RootLayout({ children }) {
   return (
-    <html lang="fr" className={`${inter.className} antialised`}>
-      <body>{children}</body>
+    <html lang="fr">
+      <body
+        className={`${inter.className} bg-white text-black antialiased`}
+        suppressHydrationWarning
+      >
+        {children}
+      </body>
     </html>
   );
 }
