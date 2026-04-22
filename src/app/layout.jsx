@@ -7,6 +7,9 @@ const inter = Inter({
 });
 
 export const metadata = {
+  icons: {
+    icon: "/favicon.ico",
+  },
   title: "La Roma | Accueil",
   description: "#", // todo: ajouter la description du site
 };
@@ -14,9 +17,6 @@ export const metadata = {
 function RootLayout({ children }) {
   return (
     <html lang="fr">
-      <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-      </head>
       <body
         className={`${inter.className} bg-white text-black antialiased`}
         suppressHydrationWarning

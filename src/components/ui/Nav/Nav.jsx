@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 
-import { useData } from "@/app/hooks";
+import { useData } from "@/hooks";
 
 function Nav() {
   const { data: navlinks, loading, error } = useData("/data/navlinks.json");
