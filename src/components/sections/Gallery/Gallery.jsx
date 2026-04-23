@@ -3,7 +3,7 @@ import gallery from "@/data/gallery.json";
 
 function Gallery() {
   return (
-    <section className="bg-light flex flex-col items-center gap-16 px-[2.7vw]">
+    <section className="flex flex-col items-center gap-16 px-[2.7vw]">
       {/* Text content */}
       <div className="inline-flex flex-col items-center gap-4">
         <h2 className="heading-2">Galerie photo</h2>

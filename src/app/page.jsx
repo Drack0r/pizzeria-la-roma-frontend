@@ -1,5 +1,5 @@
 import { Header } from "@/components/layout";
-import { About, Gallery, Hero, Kitchen } from "@/components/sections";
+import { About, Gallery, Hero, Kitchen, Team } from "@/components/sections";
 
 function HomePage() {
   return (
@@ -10,6 +10,7 @@ function HomePage() {
         <Hero />
         <About />
         <Kitchen />
+        <Team />
         <Gallery />
       </main>
     </>

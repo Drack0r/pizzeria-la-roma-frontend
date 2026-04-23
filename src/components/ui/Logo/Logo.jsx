@@ -5,7 +5,7 @@ function Logo() {
   return (
     <Link href="/" className="inline-flex items-center gap-2 px-1">
       <Image
-        src="/images/logo.svg"
+        src="/icons/logo.svg"
         alt="Logo de La Roma"
         width={398}
         height={408}
