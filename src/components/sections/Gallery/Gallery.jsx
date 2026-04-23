@@ -14,7 +14,7 @@ function Gallery() {
       </div>
 
       {/* Gallery */}
-      <div className="grid h-[2000] w-full grid-cols-2 grid-rows-4 gap-4">
+      <div className="grid h-[2000px] w-full grid-cols-2 grid-rows-4 gap-4">
         {gallery.map((image) => (
           <GalleryImage
             key={image.id}

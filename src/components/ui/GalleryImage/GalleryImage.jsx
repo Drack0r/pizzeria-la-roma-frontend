@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import Image from "next/image";
 
-function GalleryImage({ imgSrc, imgAlt, width, height, variant }) {
+function GalleryImage({ imgSrc, imgAlt, variant }) {
   return (
     <div
       className={clsx(
