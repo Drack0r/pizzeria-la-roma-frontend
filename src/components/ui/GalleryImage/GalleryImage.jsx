@@ -10,7 +10,13 @@ function GalleryImage({ imgSrc, imgAlt, width, height, variant }) {
         variant === "horizontal" && "row-span-1",
       )}
     >
-      <Image src={imgSrc} alt={imgAlt} fill className="object-cover" />
+      <Image
+        src={imgSrc}
+        alt={imgAlt}
+        fill
+        sizes="50vw"
+        className="object-cover"
+      />
     </div>
   );
 }
