@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "/images/sarang-pande-msdTDnUxtEA-unsplash.jpg",
+    "imgAlt": "Pizza servie à table",
+    "variant": "horizontal"
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/kajetan-sumila-e8ULlZbWu0I-unsplash.jpg",
+    "imgAlt": "Pizza dans un four",
+    "variant": "vertical"
+  },
+  {
+    "id": 3,
+    "imgSrc": "/images/benu-marinescu-e6ZOmEfNHLM-unsplash.jpg",
+    "imgAlt": "Cuisinier préparant une pizza",
+    "variant": "vertical"
+  },
+  {
+    "id": 4,
+    "imgSrc": "/images/anastasiia-chepinska-FZTwpjRUr38-unsplash.jpg",
+    "imgAlt": "Pizza sur une nappe",
+    "variant": "horizontal"
+  },
+  {
+    "id": 5,
+    "imgSrc": "/images/aldward-castillo-Lys3krd8jck-unsplash.jpg",
+    "imgAlt": "Intérieur du restaurant",
+    "variant": "horizontal"
+  },
+  {
+    "id": 6,
+    "imgSrc": "/images/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg",
+    "imgAlt": "Pizza au basilic",
+    "variant": "horizontal"
+  }
+]
