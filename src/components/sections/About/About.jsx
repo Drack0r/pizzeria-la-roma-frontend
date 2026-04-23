@@ -5,14 +5,14 @@ import badges from "@/data/badges.json";
 
 function About() {
   return (
-    <section className="flex items-center justify-between px-[2.7vw]">
+    <section className="flex items-center justify-center gap-[8vw] px-[2.7vw]">
       {/* Text content */}
       <div className="flex w-[45vw] flex-col gap-6">
         <h2 className="heading-2">Notre Histoire</h2>
 
         <p className="text-text-secondary text-lg">
           Depuis 1995, La Roma perpétue la tradition napolitaine authentique.
-          Notre pizzaiolo, formé à Naples, prépare chaque pizza avec amour et
+          Notre restaurant prépare chaque jour des pizza avec amour et
           savoir-faire.
         </p>
 
@@ -23,7 +23,7 @@ function About() {
         </p>
 
         {/* Badges container */}
-        <div className="flex justify-between">
+        <div className="mt-4 flex justify-between">
           {badges.map((badge) => (
             <Badge
               key={badge.id}
