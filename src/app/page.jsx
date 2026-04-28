@@ -1,5 +1,12 @@
 import { Header } from "@/components/layout";
-import { About, Gallery, Hero, Kitchen, Team } from "@/components/sections";
+import {
+  About,
+  Gallery,
+  Hero,
+  Kitchen,
+  Location,
+  Team,
+} from "@/components/sections";
 
 function HomePage() {
   return (
@@ -12,6 +19,7 @@ function HomePage() {
         <Kitchen />
         <Team />
         <Gallery />
+        <Location />
       </main>
     </>
   );
