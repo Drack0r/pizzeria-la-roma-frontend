@@ -2,6 +2,8 @@ import "./globals.css";
 
 import { Inter } from "next/font/google";
 
+import { Footer, Header } from "@/components/layout";
+
 const inter = Inter({
   subsets: ["latin"],
 });
@@ -21,7 +23,9 @@ function RootLayout({ children }) {
         className={`${inter.className} bg-white text-black antialiased`}
         suppressHydrationWarning
       >
-        {children}
+        <Header />
+        <main className="flex flex-col gap-20">{children}</main>
+        <Footer />
       </body>
     </html>
   );

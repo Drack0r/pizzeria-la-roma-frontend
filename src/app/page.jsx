@@ -1,4 +1,3 @@
-import { Header } from "@/components/layout";
 import {
   About,
   Gallery,
@@ -11,16 +10,12 @@ import {
 function HomePage() {
   return (
     <>
-      <Header />
-
-      <main className="flex flex-col gap-20">
-        <Hero />
-        <About />
-        <Kitchen />
-        <Team />
-        <Gallery />
-        <Location />
-      </main>
+      <Hero />
+      <About />
+      <Kitchen />
+      <Team />
+      <Gallery />
+      <Location />
     </>
   );
 }
