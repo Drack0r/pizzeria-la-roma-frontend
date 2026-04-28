@@ -8,9 +8,9 @@ function Logo({ variant }) {
       <Image
         src="/icons/logo.svg"
         alt="Logo de La Roma"
-        width={398}
-        height={408}
-        className="size-10"
+        width={285}
+        height={291}
+        className="size-8"
       />
       <span className={clsx("heading-3", variant === "light" && "text-white")}>
         La Roma
