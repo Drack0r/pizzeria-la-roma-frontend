@@ -8,7 +8,7 @@ const inter = Inter({
 
 export const metadata = {
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icons/favicon.ico",
   },
   title: "La Roma | Accueil",
   description: "#", // todo: ajouter la description du site

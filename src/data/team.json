@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "/images/Lorenzo.jpg",
+    "imgAlt": "Photo de Lorenzo",
+    "imgWidth": 1086,
+    "imgHeight": 1448,
+    "name": "Lorenzo",
+    "role": "Pizzaiolo",
+    "description": [
+      {
+        "id": 1,
+        "text": "Originaire de Naples, Lorenzo a appris l'art de la pizza dès l'âge de 14 ans dans la trattoria familiale."
+      },
+      {
+        "id": 2,
+        "text": "Avec plus de 20 ans d'expérience, il maîtrise à la perfection l'impasto napolitain et le coup de main qui fait toute la différence."
+      },
+      {
+        "id": 3,
+        "text": "Il participe à donner à chaque pizza de La Roma son caractère authentique et généreux."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/Matteo.jpg",
+    "imgAlt": "Photo de Matteo",
+    "imgWidth": 1086,
+    "imgHeight": 1448,
+    "name": "Matteo",
+    "role": "Pizzaiolo",
+    "description": [
+      {
+        "id": 1,
+        "text": "Originaire de Rome, Matteo cuisine la pizza depuis plus de 30 ans. Il a tout appris dans la cuisine de sa mère, et ça se voit."
+      },
+      {
+        "id": 2,
+        "text": "À 52 ans, il est le doyen de notre cuisine. Peu bavard, mais ses pizzas parlent pour lui."
+      },
+      {
+        "id": 3,
+        "text": "C'est lui qui fixe les standards chez La Roma. Rien ne passe sans son approbation."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imgSrc": "/images/Emma.jpg",
+    "imgAlt": "Photo de Emma",
+    "imgWidth": 1086,
+    "imgHeight": 1448,
+    "name": "Emma",
+    "role": "Serveuse",
+    "description": [
+      {
+        "id": 1,
+        "text": "Emma est en salle depuis 4 ans chez La Roma. Elle connaît la carte par cœur et sait exactement ce qu'il vous faut avant même que vous le sachiez."
+      },
+      {
+        "id": 2,
+        "text": "Efficace et directe, elle gère le service avec une aisance naturelle, même les soirs de grande affluence."
+      },
+      {
+        "id": 3,
+        "text": "C'est souvent elle qui donne le ton de la soirée. Les habitués ne jurent que par elle."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "imgSrc": "/images/Lucas.jpg",
+    "imgAlt": "Photo de Lucas",
+    "imgWidth": 1086,
+    "imgHeight": 1448,
+    "name": "Lucas",
+    "role": "Serveur",
+    "description": [
+      {
+        "id": 1,
+        "text": "Lucas a rejoint La Roma il y a 2 ans, après quelques saisons dans des brasseries parisiennes. Il a vite trouvé ses marques."
+      },
+      {
+        "id": 2,
+        "text": "À l'aise avec n'importe quel client, il assure un service fluide sans jamais se départir de sa bonne humeur."
+      },
+      {
+        "id": 3,
+        "text": "Son point fort : les recommandations vin-pizza. Il connaît la carte aussi bien que les cuisiniers."
+      }
+    ]
+  }
+]
