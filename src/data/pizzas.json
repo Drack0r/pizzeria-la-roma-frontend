@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "/images/dishes/4-fromages.png",
+    "imageAlt": "Pizza 4 Fromages",
+    "name": "4 fromages",
+    "description": "Gorgonzola, brie, chèvre, parmesan",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "15,90"
+  },
+  {
+    "id": 2,
+    "imageSrc": "/images/dishes/4-saisons.png",
+    "imageAlt": "Pizza 4 Saisons",
+    "name": "4 saisons",
+    "description": "Jambon, poivrons, artichauts marinés, champignons, olives",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "15,90"
+  },
+  {
+    "id": 3,
+    "imageSrc": "/images/dishes/burrata.png",
+    "imageAlt": "Pizza Burrata",
+    "name": "Burrata",
+    "description": "Crème fraîche, burrata, tomates cerise, roquette copeaux de parmesan",
+    "tags": [{ "id": 1, "text": "Base crème fraîche" }],
+    "price": "17,90"
+  },
+  {
+    "id": 4,
+    "imageSrc": "/images/dishes/calzone.png",
+    "imageAlt": "Pizza Calzone",
+    "name": "Calzone",
+    "description": "Jambon, ou thon, ou bœuf haché, jaune d’œuf",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "15,90"
+  },
+  {
+    "id": 5,
+    "imageSrc": "/images/dishes/campione.png",
+    "imageAlt": "Pizza Campione",
+    "name": "Campione",
+    "description": "Bœuf haché, champignons, œuf",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "14,90"
+  },
+  {
+    "id": 6,
+    "imageSrc": "/images/dishes/capricciosa.png",
+    "imageAlt": "Pizza Capricciosa",
+    "name": "Capricciosa",
+    "description": "Sauce pesto, ricotta, mortadelle, roquette, pistaches",
+    "tags": [{ "id": 1, "text": "Base pesto" }],
+    "price": "16,90"
+  },
+  {
+    "id": 7,
+    "imageSrc": "/images/dishes/chevre-miel.png",
+    "imageAlt": "Pizza Chèvre miel",
+    "name": "Chèvre miel",
+    "description": "Chèvre, miel, noix",
+    "tags": [{ "id": 1, "text": "Base crème fraîche" }],
+    "price": "14,90"
+  },
+  {
+    "id": 8,
+    "imageSrc": "/images/dishes/marguerita.png",
+    "imageAlt": "Pizza Marguerita",
+    "name": "Marguerita",
+    "description": "Olives, origan",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "12,90"
+  },
+  {
+    "id": 9,
+    "imageSrc": "/images/dishes/napolitaine.png",
+    "imageAlt": "Pizza Napolitaine",
+    "name": "Napolitaine",
+    "description": "Anchois, capres, olives",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "14,90"
+  },
+  {
+    "id": 10,
+    "imageSrc": "/images/dishes/orientale.png",
+    "imageAlt": "Pizza Orientale",
+    "name": "Orientale",
+    "description": "Merguez, oignons rouges, poivrons, œuf, olives",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "15,90"
+  },
+  {
+    "id": 11,
+    "imageSrc": "/images/dishes/provencale.png",
+    "imageAlt": "Pizza Provençale",
+    "name": "Provençale",
+    "description": "Jambon sec, roquette, tomates cerises, olives, copeaux de parme",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "16,90"
+  },
+  {
+    "id": 12,
+    "imageSrc": "/images/dishes/reine.png",
+    "imageAlt": "Pizza Reine",
+    "name": "Reine",
+    "description": "Jambon, champignons",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "14,90"
+  },
+  {
+    "id": 13,
+    "imageSrc": "/images/dishes/truffato.png",
+    "imageAlt": "Pizza Truffato",
+    "name": "Truffato",
+    "description": "Crème de truffes, jambon sec, champignons roquette, stracciatella",
+    "tags": [{ "id": 1, "text": "Base crème fraîche" }],
+    "price": "17,90"
+  },
+  {
+    "id": 14,
+    "imageSrc": "/images/dishes/venezia.png",
+    "imageAlt": "Pizza Venezia",
+    "name": "Venezia",
+    "description": "Saumon fumé, citron",
+    "tags": [{ "id": 1, "text": "Base crème fraîche" }],
+    "price": "16,90"
+  },
+  {
+    "id": 15,
+    "imageSrc": "/images/dishes/vegetarienne.png",
+    "imageAlt": "Pizza Végétarienne",
+    "name": "Végétarienne",
+    "description": "Champignons, poivrons, olives, aubergines, et artichauts marinés",
+    "tags": [{ "id": 1, "text": "Base tomate" }],
+    "price": "15,90"
+  }
+]

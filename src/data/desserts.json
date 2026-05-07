@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "/images/desserts/brownie.png",
+    "imageAlt": "Brownie",
+    "name": "Brownie",
+    "description": "Moelleux au chocolat noir, cœur fondant",
+    "tags": [{ "id": 1, "text": "Chocolat" }],
+    "price": "5,5"
+  },
+  {
+    "id": 2,
+    "imageSrc": "/images/desserts/cheese-cake.png",
+    "imageAlt": "Cheese cake pistaches",
+    "name": "Cheese cake pistaches",
+    "description": "Biscuit croustillant, crème au fromage et éclats de pistache",
+    "tags": [{ "id": 1, "text": "Pistache" }],
+    "price": "5,5"
+  },
+  {
+    "id": 3,
+    "imageSrc": "/images/desserts/dolce-sanfonia.png",
+    "imageAlt": "Dolce Sanfonia",
+    "name": "Dolce Sanfonia",
+    "description": "Douceur italienne aux saveurs de chocolat",
+    "tags": [{ "id": 1, "text": "Chocolat" }],
+    "price": "5,5"
+  },
+  {
+    "id": 4,
+    "imageSrc": "/images/desserts/fondant.png",
+    "imageAlt": "Fondant pistaches",
+    "name": "Fondant pistaches",
+    "description": "Gâteau moelleux à la pistache, fondant et légèrement sucré",
+    "tags": [{ "id": 1, "text": "Pistache" }],
+    "price": "5,5"
+  },
+  {
+    "id": 5,
+    "imageSrc": "/images/desserts/mousse-chocolat.png",
+    "imageAlt": "Mousse au chocolat",
+    "name": "Mousse au chocolat",
+    "description": "Mousse aérienne au chocolat noir",
+    "tags": [{ "id": 1, "text": "Chocolat" }],
+    "price": "5,5"
+  },
+  {
+    "id": 6,
+    "imageSrc": "/images/desserts/salade-fruits.png",
+    "imageAlt": "Salade de fruits",
+    "name": "Salade de fruits",
+    "description": "Mélange de fruits frais de saison, légèrement citronné",
+    "tags": [{ "id": 1, "text": "Fruits" }],
+    "price": "5,5"
+  },
+  {
+    "id": 7,
+    "imageSrc": "/images/desserts/tarte-daim.png",
+    "imageAlt": "Tarte au daim",
+    "name": "Tarte au daim",
+    "description": "Pâte sablée et éclats de daim croustillants.",
+    "tags": [{ "id": 1, "text": "Chocolat" }],
+    "price": "5,5"
+  },
+  {
+    "id": 8,
+    "imageSrc": "/images/desserts/tiramisu.png",
+    "imageAlt": "Tiramisu",
+    "name": "Tiramisu",
+    "description": "Mascarpone, café et biscuits imbibés.",
+    "tags": [{ "id": 1, "text": "Café" }],
+    "price": "5,5"
+  }
+]

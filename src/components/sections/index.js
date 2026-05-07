@@ -4,3 +4,4 @@ export { default as Hero } from "./Hero/Hero";
 export { default as Kitchen } from "./Kitchen/Kitchen";
 export { default as Location } from "./Location/Location";
 export { default as Team } from "./Team/Team";
+export { default as Menu } from "./Menu/Menu";

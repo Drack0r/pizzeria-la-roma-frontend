@@ -4,3 +4,4 @@ export { default as InfoCard } from "./InfoCard/InfoCard";
 export { default as Logo } from "./Logo/Logo";
 export { default as Nav } from "./Nav/Nav";
 export { default as TeamCard } from "./TeamCard/TeamCard";
+export { default as MenuItemCard } from "./MenuItemCard/MenuItemCard";
